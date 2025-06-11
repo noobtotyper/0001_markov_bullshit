@@ -1,0 +1,68 @@
+This is the zeroeth prototype noobtotype to be published.
+
+It consists of two parts.
+
+    Setting up a functioning website, which I did just yesterday 2025-05-28.
+    Writing this post, for myself and for others to see how future posts will be.
+
+Why this noobtotype
+
+"To host them all."
+
+But really, I have done some mini-projects and just want to organize them somewhere and share them.
+
+I have certainly enjoyed visiting other people's sites, overflowing with personality, creativity and skill as they are.
+
+I do not have that much personality (due to overhead) nor much creativity and skill (due ot underhead), but hey, I can make what I would like to see.
+
+Usually I would try to answer this questions about the project I just completed:
+
+    What does it consist of?
+    What inspired it?
+    What problems did I encounter and how did I solve them (assuming I did)?
+    What problems was I awarded in return?
+    What did this inspire me to do next?
+    Any challenges for the readers?
+
+But not this time. No no no. This one time is the exception. I cannot succesfully answer the questions.
+
+The first and second because I already did. The third and fourth (about the process) because there were not really any problems. The fifth and last because I already said I cannot; so if I end up answering, that would be a contradiction.
+The process
+
+I had already done a web search on how to have a personal website so I learned that one can buy their own domain (example.com) or get a subdomain (example.company.com) from a company for free. Either way, to host the actual website one needs to have a device running some software at all times, and manage things like security, or one can pay a hosting service to do it for them.
+
+I decided to go with either Wordpress or Neocities, as both have free subdomains and free hosting, and the setup is smooth as margarine.
+
+Even though the main purpose of the website is blogging, and Wordpress has good templates, I want to really give it my personal touch. That is technically (in both meanings) possible in Neocities, since people have really cool sites. More effort, but totally worth it.
+
+Another reason is I that I like the community.
+
+Decision made.
+What next?
+
+First, it needs to link to my socials (still to be created) and to have more basic functionality. But that is the point of a noobtotype, to consider it done before it actually is.
+
+I will also soon decide whether to get my own domain or not. Do I need more than 1GB of files? How findable should the website be? Shall I assume the periodical costs? I have almost decided that the free option suffices for now.
+
+Then it needs to look better. The styling of the website will be a separate project. (It is plain white html at the time of writing.)
+
+At the same time it needs to have more content, which I am motivated to create.
+
+There will probably be a future project related to this website's archival and scraping. I want good people, like followers or non-profit archivists to be able to do it easily, and goodn't or peoplen't to find it hard or counterproductive to do, no naming needed. I might include a tarpit like https://zadzmo.org/code/nepenthes/ or homebrew something. I have a couple ideas.
+
+Note: the above page is not hyperlinked because I do not want to declare war on webcrawlers yet (it is safe for humans, it just sends bots through an infinite maze of randomly generated content).
+For the readers
+
+The website is very much under construction, but for the moment you can check that:
+
+The checkboxes work.
+The checkboxes always tell the truth.
+The checkboxes always lie or are amusing.
+All 4 boxes can be interacted with.
+The checkboxes are paradoxical.
+
+You could also go to the About page.
+
+I welcome all comments, but nice ones are nicer :D
+
+PS: This article is semi-serious. By that I mean either half-serious all the time, or all-serious half the time, or else. Perhaps ironic, perhaps self-deprecating, maybe even funny, but always with the best of intentions. And most important of all, uses the metric system and is probably not ISO compliant, except for the date (Mandatory comic).
